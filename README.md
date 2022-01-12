@@ -22,4 +22,25 @@
 <br>
 
 ## screenshots
-<img src='res\night.gif' class="center">
+<img src='pics\1.png' class="center">
+<img src='pics\2.png' class="center">
+<img src='pics\3.png' class="center">
+<img src='pics\4.png' class="center">
+<img src='pics\5.png' class="center">
+<img src='pics\6.png' class="center">
+<img src='pics\7.png' class="center">
+<img src='pics\8.png' class="center">
+<img src='pics\9.png' class="center">
+<img src='pics\10.png' class="center">
+<img src='pics\11.png' class="center">
+<img src='pics\12.png' class="center">
+<img src='pics\13.png' class="center">
+<img src='pics\14.png' class="center">
+<img src='pics\15.png' class="center">
+<img src='pics\16.png' class="center">
+<img src='pics\17.png' class="center">
+<img src='pics\18.png' class="center">
+<img src='pics\19.png' class="center">
+<img src='pics\20.png' class="center">
+<img src='pics\21.png' class="center">
+
